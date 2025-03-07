@@ -5,7 +5,81 @@
 }
 
 /*Musa */
+body{
+    padding: 0 121px;
+}
+
+header{
+    padding-top: 21px;
+}
+
+.section1{
+    padding-right: 40px;
+}
+
+.section1-first{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 93px;
+}
+
+.section1-date{
+    display: flex;
+    gap:45px;
+}
+
+.section1-group span{
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    margin-left: 4px;
+}
+
+.section1-text h1{
+    font-family: "Roboto Slab", serif;
+    font-size: 80px;
+    margin-top:38px;
+    padding-left: 1px;
+    line-height: 81px;
+}
+
+.section1-text p{
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    margin-top: 16px;
+    line-height: 30px;
+    padding-left: 1px;
+    width: 63%;
+}
+
+.section1-left{
+    width: 60%;
+}
+
+.section1-first>img{
+    margin-top: 40px;
     
+}
+
+.section1-card{
+   margin: 0 auto;
+   margin-top: 110px;
+   width: 45%;
+   background-color: #1E4681;
+   color: white;
+   padding: 20px;
+   border-radius: 5px;
+}
+
+.section1-card p:first-of-type{
+    font-family: "Roboto Slab", serif;
+    font-size: 25px;
+ }
+
+ .section1-card p:last-of-type{
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    
+ }
 /* Xeyale */
 
 /* Ayxan*/
